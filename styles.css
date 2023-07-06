@@ -1,0 +1,91 @@
+.login{
+    text-align: center;
+    margin-right: 3%;
+}
+.first{
+    text-align: center;
+    margin-right: 4%;
+
+}
+.second{
+    text-align: center;
+    margin-left:-6%;
+
+
+}
+.third{
+    text-align: center;
+    margin-left:-6%;
+ 
+}
+.pass2{
+    margin-left: 4%;
+    border-radius: 21px;
+  padding:11px 58px;
+  width: 15%;
+
+
+}
+.second{
+    margin-left: -4%;
+    
+}
+.jina1{
+    /* margin-left: 4%; */
+border-radius: 21px;
+  padding:11px 58px;
+  width: 15%;
+
+}
+.pass1{
+    border-radius: 21px;
+  padding:11px 58px;
+  width: 15%;
+
+}
+.logs2{
+  text-align: center;  
+  border-radius: 21px;
+  padding:16px 5px;
+  width: 15%;
+  margin-left: 40%;
+  color: white;
+  background-color: #486943;
+
+
+}
+.locs{
+    margin-right: 8%;
+}
+.pasw{
+    margin-right: 10%;
+
+}.jinz{
+    margin-right: 9%;
+
+}
+.pass1{
+    margin-right: 1%;
+}
+body{
+    background-color: #B2DAB8;
+    
+
+}
+.signAccount{
+    text-align: center;
+    margin-right: 7%;
+}
+.third{
+    margin-right: 1%;
+}
+.jina1{
+    margin-right: 1%;
+
+}
+@media(max-width:390px){
+    body{
+        margin-top: 46%;
+    }
+
+}
